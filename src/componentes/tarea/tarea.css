@@ -1,0 +1,13 @@
+.tarea {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 40vw;
+}
+
+.cerrarTarea {
+    border-radius: 50%;
+}
